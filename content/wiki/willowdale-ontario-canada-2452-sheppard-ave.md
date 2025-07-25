@@ -3,7 +3,7 @@ draft = false
 title = "Willowdale, Ontario, Canada (2452 Sheppard Ave)"
 startDate = "1983-10-08"
 endDate = ""
-pageThumbnailFile = ""
+pageThumbnailFile = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fchuckecheese%2Fcomments%2F1ljm8du%2Fwillowdale_photos_i_took_today%2F&psig=AOvVaw328nZLZ83d0eZ8O2wiHRdA&ust=1753499736597000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCPjvg9uF144DFQAAAAAdAAAAABAE"
 contributors = ["ChuckECool", "Cecnj98", "2605:8D80:6C2:1681:24E4:3B2F:C11E:2CF6", "Cheeseclassic", "Stripes", "Capitanyoda20", "smileshy22"]
 citations = ["https://cheeseepedia.org/photos/9832u49823j4t.avif", "https://www.reddit.com/r/chuckecheese/comments/1kvwnlf/breaking_news_willowdale_to_be_the_only_legacy/", "https://www.reddit.com/r/chuckecheese/comments/1l3p17w/willowdales_new_video_wall/", "https://www.reddit.com/r/chuckecheese/comments/1m4zr38/not_all_of_willowdales_phase_4_art_was_destroyed/"]
 latitudeLongitude = ["43.77421872", "-79.32692263"]
